@@ -1,0 +1,24 @@
+D .
+D frame
+D game
+P 8364BC2F bar1.png
+P B7F3BE93 bar2.png
+P 6FD91B45 blue.png
+P 6A584AE0 blue2.png
+P D406C61E btn_continue.png
+P 0FF8D559 btn_download.png
+P 0F248A47 btn_retry.png
+P 09D76BB3 guide.png
+P BDC0627B guidejiantou.png
+P 2D9E6BF3 guidetxt.png
+P 709135DE img_guide.png
+P E79B565C lose.png
+P 294B8BC4 red.png
+P 38C35D26 red2.png
+P F2602693 ui_mine.png
+P 87C86572 ui_other.png
+P 0608668C ui_role.png
+D loading
+P FF924539 img_logo.png
+P FBB95096 loading$bar.png
+P 1E78682A loading.png

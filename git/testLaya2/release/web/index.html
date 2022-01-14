@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8' />
+	<title>2.0核心架构，无需运行，直接发布即可</title>
+	<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
+	/>
+	<meta name="renderer" content="webkit"/>
+	<meta name='apple-mobile-web-app-capable' content='yes' />
+	<meta name='full-screen' content='true' />
+	<meta name='x5-fullscreen' content='true' />
+	<meta name='360-fullscreen' content='true' />
+	<meta name="laya" screenorientation ="landscape"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv='expires' content='0' />
+	<meta http-equiv="Cache-Control" content="no-siteapp"/>
+</head>
+
+<body>
+	<!--以下引用了常用类库，如果不使用，可以删除-->
+
+	<!--核心包，封装了显示对象渲染，事件，时间管理，时间轴动画，缓动，消息交互,socket，本地存储，鼠标触摸，声音，加载，颜色滤镜，位图字体等-->
+	<!-- 物理引擎matter.js -->
+	<!--用户自定义顺序文件添加到这里-->
+	<!--jsfile--Custom-->
+	<!--jsfile--Custom-->
+	<!--自定义的js(src文件夹下)文件自动添加到下面jsfile模块标签里面里-->
+	<!--删除标签，ide不会自动添加js文件，请谨慎操作-->
+	<!--jsfile--startTag-->
+	<script src="js/ui/layaUI.max.all.js"></script>
+	<script src="js/core/util/PubUtil.js"></script>
+	<script src="js/core/util/ProxyUtil.js"></script>
+	<script src="js/core/util/MathUtil.js"></script>
+	<script src="js/core/util/Dictionary.js"></script>
+	<script src="js/core/ui/UIType.js"></script>
+	<script src="js/core/ui/UIScaleManager.js"></script>
+	<script src="js/core/ui/UIManager.js"></script>
+	<script src="js/core/ui/BaseUI.js"></script>
+	<script src="js/core/scene/SceneManager.js"></script>
+	<script src="js/core/scene/Scene3DManager.js"></script>
+	<script src="js/core/scene/LayerManager.js"></script>
+	<script src="js/core/net/NetManager.js"></script>
+	<script src="js/core/net/HttpManager.js"></script>
+	<script src="js/core/king/KingManager.js"></script>
+	<script src="js/core/king/BoneManager.js"></script>
+	<script src="js/core/effect/EffectManager.js"></script>
+	<script src="js/core/common/TweenManager.js"></script>
+	<script src="js/core/common/TouchManager.js"></script>
+	<script src="js/core/common/TipManager.js"></script>
+	<script src="js/core/common/SoundManager.js"></script>
+	<script src="js/core/common/ResManager.js"></script>
+	<script src="js/core/common/OpenManager.js"></script>
+	<script src="js/core/base64/Base64Manager.js"></script>
+	<script src="js/core/common/EventManager.js"></script>
+	<script src="js/core/effect/BaseEffect.js"></script>
+	<script src="js/core/effect/BossWarningEft.js"></script>
+	<script src="js/core/effect/ChangeImageEft.js"></script>
+	<script src="js/core/effect/FountainEft.js"></script>
+	<script src="js/core/effect/GuideClickEft.js"></script>
+	<script src="js/core/king/BaseBone.js"></script>
+	<script src="js/core/king/BaseKing.js"></script>
+	<script src="js/core/platform/PlatformManager.js"></script>
+	<script src="js/core/platform/LocalPlatform.js"></script>
+	<script src="js/core/platform/AdColonyPlatform.js"></script>
+	<script src="js/core/platform/ApplovinPlatform.js"></script>
+	<script src="js/core/platform/FaceBookPlatform.js"></script>
+	<script src="js/core/platform/GooglePlatform.js"></script>
+	<script src="js/core/platform/IronSourcePlatform.js"></script>
+	<script src="js/core/platform/MTGPlatform.js"></script>
+	<script src="js/core/platform/UnityPlatform.js"></script>
+	<script src="js/core/platform/VunglePlatform.js"></script>
+	<script src="js/core/platform/WxPlatform.js"></script>
+	<script src="js/core/ui/BaseFrame.js"></script>
+	<script src="js/core/ui/BaseWindow.js"></script>
+	<!--jsfile--endTag-->
+
+	<!--启动类添加到这里-->
+	<!--jsfile--Main-->
+	<script src="js/core/Define.js"></script>
+	<script src="js/core/Global.js"></script>
+	<script src="js/Main.js"></script>
+	<!--jsfile--Main-->
+</body>
+
+</html>

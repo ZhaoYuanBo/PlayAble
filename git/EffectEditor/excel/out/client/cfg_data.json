@@ -1,0 +1,752 @@
+{
+	"Ver": "20200918181529",
+	"Items": {
+		"Cfg_Action": [
+			{
+				"actionDirect": 3,
+				"actionType": 0,
+				"frameCount": 1,
+				"frameRate": 100,
+				"height": 86,
+				"id": 1,
+				"offX": 35,
+				"offY": 43,
+				"skin": "role",
+				"width": 130
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 1,
+				"frameCount": 8,
+				"frameRate": 100,
+				"height": 70,
+				"id": 2,
+				"offX": 20,
+				"offY": 35,
+				"skin": "xingshi",
+				"width": 110
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 11,
+				"frameCount": 8,
+				"frameRate": 80,
+				"height": 130,
+				"id": 3,
+				"offX": 20,
+				"offY": 65,
+				"skin": "xingshi",
+				"width": 138
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 1,
+				"frameCount": 5,
+				"frameRate": 50,
+				"height": 100,
+				"id": 4,
+				"offX": 130,
+				"offY": 50,
+				"skin": "wolf",
+				"width": 300
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 11,
+				"frameCount": 5,
+				"frameRate": 50,
+				"height": 59,
+				"id": 5,
+				"offX": 120,
+				"offY": 30,
+				"skin": "wolf",
+				"width": 275
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 1,
+				"frameCount": 4,
+				"frameRate": 100,
+				"height": 200,
+				"id": 6,
+				"offX": 130,
+				"offY": 150,
+				"skin": "boss",
+				"width": 300
+			},
+			{
+				"actionDirect": 3,
+				"actionType": 11,
+				"frameCount": 7,
+				"frameRate": 100,
+				"height": 300,
+				"id": 7,
+				"offX": 130,
+				"offY": 180,
+				"skin": "boss",
+				"width": 300
+			}
+		],
+		"Cfg_Frame": [
+			{
+				"count": 6,
+				"desc": "掉血1",
+				"height": 256,
+				"id": 1,
+				"rate": 60,
+				"skin": "frame1/blood1",
+				"width": 256
+			},
+			{
+				"count": 5,
+				"desc": "掉血2",
+				"height": 200,
+				"id": 2,
+				"rate": 60,
+				"skin": "frame1/blood2",
+				"width": 150
+			},
+			{
+				"count": 0,
+				"desc": "掉血3",
+				"height": 0,
+				"id": 3,
+				"rate": 0,
+				"skin": "frame1/blood3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "掉血4",
+				"height": 0,
+				"id": 4,
+				"rate": 0,
+				"skin": "frame1/blood4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "掉血5",
+				"height": 0,
+				"id": 5,
+				"rate": 0,
+				"skin": "frame1/blood5",
+				"width": 0
+			},
+			{
+				"count": 8,
+				"desc": "死亡1",
+				"height": 256,
+				"id": 6,
+				"rate": 60,
+				"skin": "frame1/dead1",
+				"width": 256
+			},
+			{
+				"count": 0,
+				"desc": "死亡",
+				"height": 0,
+				"id": 7,
+				"rate": 0,
+				"skin": "frame1/dead2",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "死亡",
+				"height": 0,
+				"id": 8,
+				"rate": 0,
+				"skin": "frame1/dead3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "死亡",
+				"height": 0,
+				"id": 9,
+				"rate": 0,
+				"skin": "frame1/dead4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "死亡",
+				"height": 0,
+				"id": 10,
+				"rate": 0,
+				"skin": "frame1/dead5",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "子弹",
+				"height": 0,
+				"id": 11,
+				"rate": 0,
+				"skin": "frame1/bullet1",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "子弹",
+				"height": 0,
+				"id": 12,
+				"rate": 0,
+				"skin": "frame1/bullet2",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "子弹",
+				"height": 0,
+				"id": 13,
+				"rate": 0,
+				"skin": "frame1/bullet3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "子弹",
+				"height": 0,
+				"id": 14,
+				"rate": 0,
+				"skin": "frame1/bullet4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "子弹",
+				"height": 0,
+				"id": 15,
+				"rate": 0,
+				"skin": "frame1/bullet5",
+				"width": 0
+			},
+			{
+				"count": 5,
+				"desc": "开火1",
+				"height": 200,
+				"id": 16,
+				"rate": 60,
+				"skin": "frame1/fire1",
+				"width": 200
+			},
+			{
+				"count": 5,
+				"desc": "开火2",
+				"height": 75,
+				"id": 17,
+				"rate": 60,
+				"skin": "frame1/fire2",
+				"width": 100
+			},
+			{
+				"count": 0,
+				"desc": "开火",
+				"height": 0,
+				"id": 18,
+				"rate": 0,
+				"skin": "frame1/fire3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "开火",
+				"height": 0,
+				"id": 19,
+				"rate": 0,
+				"skin": "frame1/fire4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "开火",
+				"height": 0,
+				"id": 20,
+				"rate": 0,
+				"skin": "frame1/fire5",
+				"width": 0
+			},
+			{
+				"count": 8,
+				"desc": "击中1",
+				"height": 60,
+				"id": 21,
+				"rate": 60,
+				"skin": "frame1/hit1",
+				"width": 60
+			},
+			{
+				"count": 0,
+				"desc": "击中2",
+				"height": 0,
+				"id": 22,
+				"rate": 0,
+				"skin": "frame1/hit2",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "击中3",
+				"height": 0,
+				"id": 23,
+				"rate": 0,
+				"skin": "frame1/hit3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "击中4",
+				"height": 0,
+				"id": 24,
+				"rate": 0,
+				"skin": "frame1/hit4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "击中5",
+				"height": 0,
+				"id": 25,
+				"rate": 0,
+				"skin": "frame1/hit5",
+				"width": 0
+			},
+			{
+				"count": 8,
+				"desc": "爆炸1",
+				"height": 256,
+				"id": 26,
+				"rate": 60,
+				"skin": "frame1/bomb1",
+				"width": 256
+			},
+			{
+				"count": 8,
+				"desc": "爆炸2",
+				"height": 60,
+				"id": 27,
+				"rate": 60,
+				"skin": "frame1/bomb2",
+				"width": 60
+			},
+			{
+				"count": 0,
+				"desc": "爆炸3",
+				"height": 0,
+				"id": 28,
+				"rate": 0,
+				"skin": "frame1/bomb3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "爆炸4",
+				"height": 0,
+				"id": 29,
+				"rate": 0,
+				"skin": "frame1/bomb4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "爆炸5",
+				"height": 0,
+				"id": 30,
+				"rate": 0,
+				"skin": "frame1/bomb5",
+				"width": 0
+			},
+			{
+				"count": 4,
+				"desc": "发光1",
+				"height": 320,
+				"id": 31,
+				"rate": 60,
+				"skin": "frame2/light1",
+				"width": 318
+			},
+			{
+				"count": 5,
+				"desc": "发光2",
+				"height": 300,
+				"id": 32,
+				"rate": 60,
+				"skin": "frame2/light2",
+				"width": 300
+			},
+			{
+				"count": 8,
+				"desc": "发光3",
+				"height": 202,
+				"id": 33,
+				"rate": 60,
+				"skin": "frame2/light3",
+				"width": 246
+			},
+			{
+				"count": 8,
+				"desc": "发光4",
+				"height": 480,
+				"id": 34,
+				"rate": 60,
+				"skin": "frame2/light4",
+				"width": 190
+			},
+			{
+				"count": 8,
+				"desc": "发光5",
+				"height": 346,
+				"id": 35,
+				"rate": 60,
+				"skin": "frame2/light5",
+				"width": 345
+			},
+			{
+				"count": 6,
+				"desc": "发光6",
+				"height": 209,
+				"id": 36,
+				"rate": 60,
+				"skin": "frame2/light6",
+				"width": 221
+			},
+			{
+				"count": 8,
+				"desc": "发光7",
+				"height": 500,
+				"id": 37,
+				"rate": 80,
+				"skin": "frame2/light7",
+				"width": 500
+			},
+			{
+				"count": 8,
+				"desc": "发光8",
+				"height": 500,
+				"id": 38,
+				"rate": 80,
+				"skin": "frame2/light8",
+				"width": 500
+			},
+			{
+				"count": 8,
+				"desc": "发光9",
+				"height": 500,
+				"id": 39,
+				"rate": 80,
+				"skin": "frame2/light9",
+				"width": 500
+			},
+			{
+				"count": 0,
+				"desc": "发光10",
+				"height": 0,
+				"id": 40,
+				"rate": 0,
+				"skin": "frame2/light10",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "发光11",
+				"height": 0,
+				"id": 41,
+				"rate": 0,
+				"skin": "frame2/light11",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "发光12",
+				"height": 0,
+				"id": 42,
+				"rate": 0,
+				"skin": "frame2/light12",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "发光13",
+				"height": 0,
+				"id": 43,
+				"rate": 0,
+				"skin": "frame2/light13",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "发光14",
+				"height": 0,
+				"id": 44,
+				"rate": 0,
+				"skin": "frame2/light14",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "发光15",
+				"height": 0,
+				"id": 45,
+				"rate": 0,
+				"skin": "frame2/light15",
+				"width": 0
+			},
+			{
+				"count": 8,
+				"desc": "金币1",
+				"height": 120,
+				"id": 46,
+				"rate": 60,
+				"skin": "frame3/gold1",
+				"width": 120
+			},
+			{
+				"count": 0,
+				"desc": "金币2",
+				"height": 0,
+				"id": 47,
+				"rate": 0,
+				"skin": "frame3/gold2",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "金币3",
+				"height": 0,
+				"id": 48,
+				"rate": 0,
+				"skin": "frame3/gold3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "金币4",
+				"height": 0,
+				"id": 49,
+				"rate": 0,
+				"skin": "frame3/gold4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "金币5",
+				"height": 0,
+				"id": 50,
+				"rate": 0,
+				"skin": "frame3/gold5",
+				"width": 0
+			},
+			{
+				"count": 5,
+				"desc": "现金1",
+				"height": 160,
+				"id": 51,
+				"rate": 60,
+				"skin": "frame3/cash1",
+				"width": 153
+			},
+			{
+				"count": 6,
+				"desc": "现金2",
+				"height": 480,
+				"id": 52,
+				"rate": 60,
+				"skin": "frame3/cash2",
+				"width": 455
+			},
+			{
+				"count": 0,
+				"desc": "现金3",
+				"height": 0,
+				"id": 53,
+				"rate": 0,
+				"skin": "frame3/cash3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "现金4",
+				"height": 0,
+				"id": 54,
+				"rate": 0,
+				"skin": "frame3/cash4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "现金5",
+				"height": 0,
+				"id": 55,
+				"rate": 0,
+				"skin": "frame3/cash5",
+				"width": 0
+			},
+			{
+				"count": 8,
+				"desc": "烟花1",
+				"height": 200,
+				"id": 56,
+				"rate": 60,
+				"skin": "frame3/firework1",
+				"width": 200
+			},
+			{
+				"count": 0,
+				"desc": "烟花2",
+				"height": 0,
+				"id": 57,
+				"rate": 0,
+				"skin": "frame3/firework2",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "烟花3",
+				"height": 0,
+				"id": 58,
+				"rate": 0,
+				"skin": "frame3/firework3",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "烟花4",
+				"height": 0,
+				"id": 59,
+				"rate": 0,
+				"skin": "frame3/firework4",
+				"width": 0
+			},
+			{
+				"count": 0,
+				"desc": "烟花5",
+				"height": 0,
+				"id": 60,
+				"rate": 0,
+				"skin": "frame3/firework5",
+				"width": 0
+			},
+			{
+				"count": 6,
+				"desc": "旋转1",
+				"height": 257,
+				"id": 61,
+				"rate": 60,
+				"skin": "frame/rotate1",
+				"width": 257
+			}
+		],
+		"Cfg_Level": [
+			{
+				"atk": 5,
+				"atkDistance": 1280,
+				"cri": 20,
+				"criRate": 5000,
+				"exp": 100,
+				"hp": 500,
+				"lvl": 1,
+				"moveSpeed": 4,
+				"mp": 10
+			}
+		],
+		"Cfg_Monster": [
+			{
+				"atk": 1,
+				"atkCD": 1000,
+				"atkDistance": 140,
+				"coin": 20,
+				"hp": 10,
+				"id": 0,
+				"moveSpeed": 2,
+				"name": "长臂猿",
+				"skin": "xingshi",
+				"type": 0
+			},
+			{
+				"atk": 3,
+				"atkCD": 900,
+				"atkDistance": 140,
+				"coin": 50,
+				"hp": 15,
+				"id": 1,
+				"moveSpeed": 5,
+				"name": "野狼",
+				"skin": "wolf",
+				"type": 0
+			},
+			{
+				"atk": 5,
+				"atkCD": 2000,
+				"atkDistance": 180,
+				"coin": 100,
+				"hp": 500,
+				"id": 2,
+				"moveSpeed": 1,
+				"name": "BOSS1",
+				"skin": "boss",
+				"type": 1
+			}
+		],
+		"Cfg_Skill": [
+			{
+				"actionType": 0,
+				"atk": 4,
+				"atkCD": 300,
+				"atkDistance": 0,
+				"atkEft": 1,
+				"atkSound": "atk100.mp3",
+				"atkX": 110,
+				"atkY": 42,
+				"atkedEft": 3,
+				"atkedX": 0,
+				"atkedY": 0,
+				"atkingEft": 2,
+				"atkingX": 150,
+				"atkingY": 0,
+				"skillId": 100,
+				"skillName": "子弹1",
+				"skillType": 1
+			},
+			{
+				"actionType": 0,
+				"atk": 15,
+				"atkCD": 100,
+				"atkDistance": 0,
+				"atkEft": 1,
+				"atkSound": "atk101.mp3",
+				"atkX": 110,
+				"atkY": 42,
+				"atkedEft": 3,
+				"atkedX": 0,
+				"atkedY": 0,
+				"atkingEft": 2,
+				"atkingX": 150,
+				"atkingY": 0,
+				"skillId": 101,
+				"skillName": "子弹2",
+				"skillType": 1
+			},
+			{
+				"actionType": 0,
+				"atk": 10000,
+				"atkCD": 100,
+				"atkDistance": 0,
+				"atkEft": 5,
+				"atkSound": "atk200.mp3",
+				"atkX": 0,
+				"atkY": 0,
+				"atkedEft": 0,
+				"atkedX": 0,
+				"atkedY": 0,
+				"atkingEft": 0,
+				"atkingX": 0,
+				"atkingY": 0,
+				"skillId": 200,
+				"skillName": "挥刀",
+				"skillType": 2
+			}
+		]
+	}
+}

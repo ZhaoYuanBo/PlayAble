@@ -1,0 +1,90 @@
+{
+	"Ver": "20190327141627",
+	"Items": [
+		{
+			"Id": 10001,
+			"hanzi": "阿\n",
+			"pinyin": "ā "
+		},
+		{
+			"Id": 10002,
+			"hanzi": "啊\n",
+			"pinyin": "ā "
+		},
+		{
+			"Id": 10003,
+			"hanzi": "哀\n",
+			"pinyin": "āi"
+		},
+		{
+			"Id": 10004,
+			"hanzi": "唉\n",
+			"pinyin": "āi"
+		},
+		{
+			"Id": 10005,
+			"hanzi": "挨",
+			"pinyin": "āi"
+		},
+		{
+			"Id": 10006,
+			"hanzi": "矮",
+			"pinyin": "āi"
+		},
+		{
+			"Id": 10007,
+			"hanzi": "爱",
+			"pinyin": "āi"
+		},
+		{
+			"Id": 10008,
+			"hanzi": "碍",
+			"pinyin": "ai"
+		},
+		{
+			"Id": 10009,
+			"hanzi": "安",
+			"pinyin": "an"
+		},
+		{
+			"Id": 10010,
+			"hanzi": "岸",
+			"pinyin": "an"
+		},
+		{
+			"Id": 10011,
+			"hanzi": "按",
+			"pinyin": "an"
+		},
+		{
+			"Id": 10012,
+			"hanzi": "案",
+			"pinyin": "an"
+		},
+		{
+			"Id": 10013,
+			"hanzi": "暗",
+			"pinyin": "an"
+		},
+		{
+			"Id": 10014,
+			"hanzi": "昂",
+			"pinyin": "ang"
+		},
+		{
+			"Id": 10015,
+			"hanzi": "袄",
+			"pinyin": "ao"
+		},
+		{
+			"Id": 10016,
+			"hanzi": "傲",
+			"pinyin": "ao"
+		},
+		{
+			"Id": 10017,
+			"hanzi": "奥",
+			"pinyin": "ao"
+		}
+	]
+}

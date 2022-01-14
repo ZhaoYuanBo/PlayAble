@@ -1,0 +1,62 @@
+1.制作互动广告
+
+2.图片压缩，一键图集成base64，打包压缩,一键发布平台
+
+3.平台测试
+测试内容大概包含：横竖屏切换流畅，下载链接跳转
+
+3.1 applovin
+把html网页上传到服务器
+测试地址：https://p.applov.in/playablePreview?create=1
+用手机浏览器打开测试地址，输入你的html绝对地址
+
+
+3.2 ironsource
+制作html网页【10K】要支持mraid 2.0，引用外部code.js【2M】，把code.js上传到服务器
+测试地址：https://demos.ironsrc.com/test-tool/?adUnitLoader=dapi&mode=testing
+网页测试成功后，生成key
+下载PlayableTestApp.apk，安装到手机，输入刚才生成的key进行真机测试  
+
+安卓软件下载地址：http://ssa.public.s3.amazonaws.com/Playable-Test-App/V1/PlayableTestApp.apk
+ios 软件下载地址 ：http://ssa.public.s3.amazonaws.com/Playable-Test-App/V1/index.html
+
+marid 测试tag
+<canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas> <div id="splash"> <div class="progress-bar stripes"> <span style="width: 0%"></span> </div> </div> <script type="text/javascript" src="https://ds5ljzwy2bvua.cloudfront.net/1019/marketing/campaigns/ironSource/repairKitchen/bundle1.js"></script>
+
+3.3 unity
+安卓手机通过UnityAds_Android_TestApp.apk测试，需要Google Play服务，安装google谷歌安装器即可
+
+3.4 google ads
+
+测试地址：https://h5validator.appspot.com/adwords/asset
+
+
+3.5facebook 2019-09-18
+开发规范
+https://www.facebook.com/business/help/412951382532338?helpref=faq_content
+
+测试地址
+https://developers.facebook.com/tools/playable-preview/
+
+测试工具2019.8月处于公测阶段，发现问题：
+1.找到 =t.replace(/>\s+</g,"><") 去掉
+原因：上传工具会将其改变为：t.replace(/>\s+,"><")，会报错
+2.找到中文正则表达式 &#19968;-&#40869;将其改为u4e00;-u9fa5;  
+原因：前者为unicode编码，后者为utf-8编码【此步骤废弃，由第三步代替】
+3.用noetpad 使用正则表达式查找  [一-龥！-～] 将中文替换为空
+原因：facebook技术人员反馈，不能有中文
+4.去掉html元数据
+例如：<meta name="renderer" content="webkit"/>
+
+//3.6 vungle
+
+测试工具：https://vungle-creative-tools.web.app/
+用手机打开测试工具，会出现一个上传地址，在电脑网页输入此地址，上传做好的试玩。
+上传成功后，在手机进行测试，可看日志。
+
+
+
+
+
+
+

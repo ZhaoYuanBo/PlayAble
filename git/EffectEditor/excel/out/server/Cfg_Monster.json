@@ -1,0 +1,41 @@
+{
+	"Ver": "20200918181529",
+	"Items": [
+		{
+			"atk": 1,
+			"atkCD": 1000,
+			"atkDistance": 140,
+			"coin": 20,
+			"hp": 10,
+			"id": 0,
+			"moveSpeed": 2,
+			"name": "长臂猿",
+			"skin": "xingshi",
+			"type": 0
+		},
+		{
+			"atk": 3,
+			"atkCD": 900,
+			"atkDistance": 140,
+			"coin": 50,
+			"hp": 15,
+			"id": 1,
+			"moveSpeed": 5,
+			"name": "野狼",
+			"skin": "wolf",
+			"type": 0
+		},
+		{
+			"atk": 5,
+			"atkCD": 2000,
+			"atkDistance": 180,
+			"coin": 100,
+			"hp": 500,
+			"id": 2,
+			"moveSpeed": 1,
+			"name": "BOSS1",
+			"skin": "boss",
+			"type": 1
+		}
+	]
+}

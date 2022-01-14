@@ -1,0 +1,114 @@
+{
+	"Ver": "20190927110758",
+	"Items": {
+		"Cfg_Game": [
+			{
+				"Id": 1,
+				"key": "loadingLogoY",
+				"value": "400"
+			},
+			{
+				"Id": 2,
+				"key": "loadingProgressY",
+				"value": "700"
+			},
+			{
+				"Id": 3,
+				"key": "font",
+				"value": "Arial"
+			},
+			{
+				"Id": 4,
+				"key": "fontSize",
+				"value": "60"
+			},
+			{
+				"Id": 5,
+				"key": "fontColor",
+				"value": "#ffffff"
+			},
+			{
+				"Id": 6,
+				"key": "fontStroke",
+				"value": "8"
+			},
+			{
+				"Id": 7,
+				"key": "fontStrokeColor",
+				"value": "#576985"
+			},
+			{
+				"Id": 8,
+				"key": "startDownloadY",
+				"value": "60"
+			},
+			{
+				"Id": 9,
+				"key": "startLogoY",
+				"value": "400"
+			},
+			{
+				"Id": 10,
+				"key": "endDownloadY",
+				"value": "1000"
+			},
+			{
+				"Id": 11,
+				"key": "androidUrl",
+				"value": "https://play.google.com/store/apps"
+			},
+			{
+				"Id": 12,
+				"key": "iosUrl",
+				"value": "https://apps.apple.com/"
+			},
+			{
+				"Id": 13,
+				"key": "clickRadius",
+				"value": "50"
+			}
+		],
+		"Cfg_Guide": [
+			{
+				"Id": 0,
+				"handX": 360,
+				"handY": 640,
+				"isCheckRadius": 0,
+				"time": 0,
+				"word": "TAP TO START",
+				"wordX": 360,
+				"wordY": 640
+			},
+			{
+				"Id": 1,
+				"handX": 360,
+				"handY": 700,
+				"isCheckRadius": 1,
+				"time": 5,
+				"word": "CLICK FIRE",
+				"wordX": 360,
+				"wordY": 700
+			},
+			{
+				"Id": 2,
+				"handX": 360,
+				"handY": 700,
+				"isCheckRadius": 1,
+				"time": 6,
+				"word": "NICE",
+				"wordX": 360,
+				"wordY": 700
+			},
+			{
+				"Id": 3,
+				"handX": 360,
+				"handY": 700,
+				"isCheckRadius": 0,
+				"time": 7,
+				"word": "NEXT LEVEL",
+				"wordX": 360,
+				"wordY": 700
+			}
+		]
+	}
+}

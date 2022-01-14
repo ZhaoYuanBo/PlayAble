@@ -1,0 +1,17 @@
+{
+	"Ver": "20200918181529",
+	"Items": [
+		{
+			"atk": 5,
+			"atkDistance": 1280,
+			"cri": 20,
+			"criRate": 5000,
+			"exp": 100,
+			"hp": 500,
+			"lvl": 1,
+			"moveSpeed": 4,
+			"mp": 10,
+			"name": "卡卡"
+		}
+	]
+}

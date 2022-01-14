@@ -1,0 +1,57 @@
+namespace game.platform{
+    /*
+    * Tapjoy
+    2020-02-21 andy
+    */
+    export class TapjoyPlatform  extends LocalPlatform{
+        constructor(){
+            super();
+            Global.platformId = PlatformID.Tj;
+            Define.langId= LangType.En;
+            Define.isLocal=true;
+            Define.serverHttp="http://192.168.2.104:3000/";
+            
+        }
+
+        init():void{
+            super.init({});
+            this.initGameSkin();
+
+            PlatformManager.ins.actionCallBack(PlatformAction.GameStart);
+            EventManager.ins.event(NoticeEvent.PLATFORM_INIT_OVER);
+        }
+
+        initGameSkin():void{
+
+        }
+
+        login():void{        
+            this.loginSuccess();
+        }
+
+        loginSuccess():void{
+            console.log("Tapjoy 登录成功！");
+            EventManager.ins.event(NoticeEvent.PLATFORM_LOGIN_SUCCESS);
+        }
+        /**
+         * 获取过审状态 
+         */
+        public getSwitchState():boolean{
+            return true;
+        }
+
+        initItem():void{
+            
+        }
+
+        saveItem(ID:number,count:number,type:number):void{
+            //HttpManager.ins.updateItem(ID,count,type);
+        }
+
+        scoreUp(rank:number,score:number):void{
+            super.scoreUp(rank,score);
+            
+        }
+        
+    }
+}

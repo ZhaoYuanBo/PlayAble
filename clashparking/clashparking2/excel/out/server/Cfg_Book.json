@@ -1,0 +1,26 @@
+{
+	"Ver": "20190323103459",
+	"Items": [
+		{
+			"Id": 10001,
+			"hanzi": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。 ",
+			"pinyin": "bai ri yi shan jin huang he ru hai liu yu qiong qian li mu geng shang yi ceng lou",
+			"title": "登鹳雀楼",
+			"type": 1
+		},
+		{
+			"Id": 10002,
+			"hanzi": "春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。",
+			"pinyin": "chun mian bu jue xiao chu chu wen ti niao ye lai feng yu sheng hua luo zhi duo shao",
+			"title": "春晓",
+			"type": 1
+		},
+		{
+			"Id": 10003,
+			"hanzi": " 汉朝时，有一人叫匡衡，勤奋好学。 家里很穷，白天必须干活，晚上他才能读书。但又买不起蜡烛，天一黑，就无法看书了,他的邻居家一到晚上屋子都点起蜡烛把屋子照得通亮。对邻居说：“晚上想读书，可买不起蜡烛，能借用你们家的一寸之地呢?”\n邻居瞧不起比他们家穷的人，就说：“既穷得买不起蜡烛，还读什么书呢!”匡衡听后非常气愤，不过他更下定决心，一定要把书读好。\n匡衡回到家，悄悄地在墙上凿了个小洞，烛光透过来了。借着这微弱的光线，如饥似渴地读起书来，渐渐地把家中的书全都读完了。附近有个大户人家，有很多藏书。一天，匡衡卷着铺盖出现在大户人家门前。他对主人说：“请您收留我，我给您家里白干活不用报酬。只是让我阅读您家的全部书籍就可以了。”主人被他的精神所感动，答应了他借书的要求。\n\n匡衡就是这样勤奋学习的，后来他做了汉元帝的丞相，成为西汉时期有名的学者。",
+			"pinyin": "han chao shi you yi ren jiao kuang heng qin fen hao xue jia li hen qiong bai tian bi xu gan huo",
+			"title": "凿壁借光",
+			"type": 2
+		}
+	]
+}

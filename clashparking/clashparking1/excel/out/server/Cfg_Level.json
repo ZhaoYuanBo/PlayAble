@@ -1,0 +1,31 @@
+{
+	"Ver": "20210603153434",
+	"Items": [
+		{
+			"atk": 0,
+			"atkDistance": 1280,
+			"cri": 20,
+			"criRate": 5000,
+			"exp": 300,
+			"hp": 200,
+			"lvl": 1,
+			"moveSpeed": 3,
+			"mp": 10,
+			"name": "卡卡",
+			"skin": "role1"
+		},
+		{
+			"atk": 0,
+			"atkDistance": 1280,
+			"cri": 20,
+			"criRate": 5000,
+			"exp": 300,
+			"hp": 200,
+			"lvl": 2,
+			"moveSpeed": 3,
+			"mp": 10,
+			"name": "卡卡",
+			"skin": "role1"
+		}
+	]
+}

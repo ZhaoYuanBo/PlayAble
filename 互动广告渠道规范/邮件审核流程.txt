@@ -1,0 +1,48 @@
+/*** ironsource **/
+收件人：cynthia.li@ironsrc.com
+抄送：wangshaonan@apusapps.com 
+国外【lyubov.tkachova@ironsrc.com 和 vivi.hergas@ironsrc.com 】
+
+内容：
+1.Playable tag：DAPI示例 http://gc-static.machbird.com/machbird/machbird/20190906114658cf57e60efd.html
+
+MRAID示例 <div id="normal" style="width:0px;height:0px;margin:auto;position:relative;top:0px;left:0px;background-color:#000000;" align="center">
+</div>
+<script src="https://gc-static.machbird.com/machbird/machbird.js"></script>
+
+Store url: 示例 https://play.google.com/store/apps/details?id=com.bingotom.crazyhit
+
+2.Protocol:MRAID OR DAPI
+
+3.Orientation: Both Landscape and Portrait
+
+4.Device type:Android(5.0 and up)
+
+Device: MeiZu Note8   OS Version:Android 8.1
+Device: OPPO R15   OS Version:Android 8.1 
+Device: HUAWEI MATE8   OS Version:Android 8.0 
+
+IOS (10.0 and up)
+Device: Iphone6   OS Version: 12.0
+Device: Iphone7   OS Version: 11.0
+
+
+/*** applovin **/
+收件人：adops-cn@applovin.com
+抄送：ada.hang@applovin.com   和 wangshaonan@apusapps.com
+
+内容：
+Campaign 名字
+测试html放到附件
+
+
+/*** unity **/
+收件人：adops-china@unity3d.com
+抄送：clara.lin@unity3d.com 和 hongyu@unity3d.com  和 wangshaonan@apusapps.com
+
+内容：
+Game ID 名字
+素材名字：playable_name_20191001
+测试html放到附件
+
+

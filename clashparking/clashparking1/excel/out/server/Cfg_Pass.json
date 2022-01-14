@@ -1,0 +1,533 @@
+{
+	"Ver": "20191223184547",
+	"Items": [
+		{
+			"Id": 10001,
+			"initAngle": 0,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10002,
+			"initAngle": 45,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10003,
+			"initAngle": 90,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10004,
+			"initAngle": 135,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10005,
+			"initAngle": 180,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10006,
+			"initAngle": 225,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10007,
+			"initAngle": 270,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10008,
+			"initAngle": 315,
+			"lvl": 1,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10009,
+			"initAngle": 0,
+			"lvl": 2,
+			"radius": 0,
+			"rotateAngle": 0,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10010,
+			"initAngle": 0,
+			"lvl": 2,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10011,
+			"initAngle": 45,
+			"lvl": 2,
+			"radius": 210,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10012,
+			"initAngle": 90,
+			"lvl": 2,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10013,
+			"initAngle": 135,
+			"lvl": 2,
+			"radius": 210,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10014,
+			"initAngle": 180,
+			"lvl": 2,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10015,
+			"initAngle": 225,
+			"lvl": 2,
+			"radius": 210,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10016,
+			"initAngle": 270,
+			"lvl": 2,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10017,
+			"initAngle": 315,
+			"lvl": 2,
+			"radius": 210,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10018,
+			"initAngle": 0,
+			"lvl": 3,
+			"radius": 0,
+			"rotateAngle": 0,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10019,
+			"initAngle": 30,
+			"lvl": 3,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10020,
+			"initAngle": 90,
+			"lvl": 3,
+			"radius": 100,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10021,
+			"initAngle": 90,
+			"lvl": 3,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10022,
+			"initAngle": 150,
+			"lvl": 3,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10023,
+			"initAngle": 225,
+			"lvl": 3,
+			"radius": 100,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10024,
+			"initAngle": 225,
+			"lvl": 3,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10025,
+			"initAngle": 315,
+			"lvl": 3,
+			"radius": 100,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10026,
+			"initAngle": 315,
+			"lvl": 3,
+			"radius": 200,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10027,
+			"initAngle": 0,
+			"lvl": 4,
+			"radius": 0,
+			"rotateAngle": 180,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10028,
+			"initAngle": 0,
+			"lvl": 4,
+			"radius": 120,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10029,
+			"initAngle": 60,
+			"lvl": 4,
+			"radius": 120,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10030,
+			"initAngle": 90,
+			"lvl": 4,
+			"radius": 240,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10031,
+			"initAngle": 120,
+			"lvl": 4,
+			"radius": 120,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10032,
+			"initAngle": 180,
+			"lvl": 4,
+			"radius": 120,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10033,
+			"initAngle": 210,
+			"lvl": 4,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10034,
+			"initAngle": 225,
+			"lvl": 4,
+			"radius": 240,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10035,
+			"initAngle": 315,
+			"lvl": 4,
+			"radius": 240,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10036,
+			"initAngle": 330,
+			"lvl": 4,
+			"radius": 150,
+			"rotateAngle": 180,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10037,
+			"initAngle": 0,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10038,
+			"initAngle": 30,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10039,
+			"initAngle": 60,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10040,
+			"initAngle": 90,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10041,
+			"initAngle": 120,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10042,
+			"initAngle": 150,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10043,
+			"initAngle": 180,
+			"lvl": 5,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10044,
+			"initAngle": 0,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10045,
+			"initAngle": 0,
+			"lvl": 6,
+			"radius": 170,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10046,
+			"initAngle": 0,
+			"lvl": 6,
+			"radius": 90,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10047,
+			"initAngle": 0,
+			"lvl": 6,
+			"radius": 0,
+			"rotateAngle": 240,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10048,
+			"initAngle": 180,
+			"lvl": 6,
+			"radius": 90,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10049,
+			"initAngle": 180,
+			"lvl": 6,
+			"radius": 170,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10051,
+			"initAngle": 30,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10052,
+			"initAngle": 60,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10053,
+			"initAngle": 90,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10054,
+			"initAngle": 120,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10055,
+			"initAngle": 150,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10056,
+			"initAngle": 180,
+			"lvl": 6,
+			"radius": 250,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10057,
+			"initAngle": 0,
+			"lvl": 7,
+			"radius": 0,
+			"rotateAngle": 0,
+			"rotateSelf": 1
+		},
+		{
+			"Id": 10058,
+			"initAngle": 0,
+			"lvl": 7,
+			"radius": 100,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10059,
+			"initAngle": 0,
+			"lvl": 7,
+			"radius": 200,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10060,
+			"initAngle": 45,
+			"lvl": 7,
+			"radius": 280,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10061,
+			"initAngle": 60,
+			"lvl": 7,
+			"radius": 240,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10062,
+			"initAngle": 90,
+			"lvl": 7,
+			"radius": 100,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10063,
+			"initAngle": 90,
+			"lvl": 7,
+			"radius": 200,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10064,
+			"initAngle": 270,
+			"lvl": 7,
+			"radius": 100,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10065,
+			"initAngle": 270,
+			"lvl": 7,
+			"radius": 200,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10066,
+			"initAngle": 300,
+			"lvl": 7,
+			"radius": 240,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		},
+		{
+			"Id": 10067,
+			"initAngle": 315,
+			"lvl": 7,
+			"radius": 280,
+			"rotateAngle": 240,
+			"rotateSelf": 0
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+    "x":0,
+    "type":"View",
+    "selectedBox":1,
+    "selecteID":5,
+    "props":{"width":100,"sceneColor":"#ffffff","height":40},
+    "nodeParent":-1,
+    "label":"View",
+    "isOpen":true,
+    "isDirectory":true,
+    "isAniNode":true,
+    "hasChild":true,
+    "compId":1,
+    "child":[
+        {
+            "x":15,
+            "type":"Button",
+            "props":{"width":100,"stateNum":"1","skin":"game/btn_100.png","name":"btnEffect","labelSize":28,"labelFont":"SimHei","labelBold":false,"label":"怪物","height":40},
+            "nodeParent":1,
+            "label":"Button(btnEffect)",
+            "isDirectory":false,
+            "isAniNode":true,
+            "hasChild":false,
+            "compId":5,
+            "child":[
+                ]
+        }],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

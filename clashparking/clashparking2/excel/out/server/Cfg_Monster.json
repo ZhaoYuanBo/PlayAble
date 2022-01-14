@@ -1,0 +1,57 @@
+{
+	"Ver": "20210709095628",
+	"Items": [
+		{
+			"atk": 0,
+			"atkedRadis": 50,
+			"atkedX": 0,
+			"atkedY": -100,
+			"coin": 200,
+			"hp": 5,
+			"id": 1,
+			"moveSpeed": 1,
+			"name": "怪物1",
+			"skin": "mon1",
+			"type": 0
+		},
+		{
+			"atk": 0,
+			"atkedRadis": 50,
+			"atkedX": 0,
+			"atkedY": -150,
+			"coin": 500,
+			"hp": 10,
+			"id": 2,
+			"moveSpeed": 2,
+			"name": "野狼",
+			"skin": "mon2",
+			"type": 0
+		},
+		{
+			"atk": 0,
+			"atkedRadis": 60,
+			"atkedX": 0,
+			"atkedY": 0,
+			"coin": 1000,
+			"hp": 800,
+			"id": 3,
+			"moveSpeed": 1,
+			"name": "BOSS1",
+			"skin": "mon3",
+			"type": 1
+		},
+		{
+			"atk": 5,
+			"atkedRadis": 0,
+			"atkedX": 0,
+			"atkedY": 0,
+			"coin": 0,
+			"hp": 100000,
+			"id": 4,
+			"moveSpeed": 0,
+			"name": "帮手",
+			"skin": "helper",
+			"type": 0
+		}
+	]
+}

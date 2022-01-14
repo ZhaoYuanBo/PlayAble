@@ -1,0 +1,89 @@
+{
+	"Ver": "20200918181529",
+	"Items": [
+		{
+			"actionDirect": 3,
+			"actionType": 0,
+			"frameCount": 1,
+			"frameRate": 100,
+			"height": 86,
+			"id": 1,
+			"offX": 35,
+			"offY": 43,
+			"skin": "role",
+			"width": 130
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 1,
+			"frameCount": 8,
+			"frameRate": 100,
+			"height": 70,
+			"id": 2,
+			"offX": 20,
+			"offY": 35,
+			"skin": "xingshi",
+			"width": 110
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 11,
+			"frameCount": 8,
+			"frameRate": 80,
+			"height": 130,
+			"id": 3,
+			"offX": 20,
+			"offY": 65,
+			"skin": "xingshi",
+			"width": 138
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 1,
+			"frameCount": 5,
+			"frameRate": 50,
+			"height": 100,
+			"id": 4,
+			"offX": 130,
+			"offY": 50,
+			"skin": "wolf",
+			"width": 300
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 11,
+			"frameCount": 5,
+			"frameRate": 50,
+			"height": 59,
+			"id": 5,
+			"offX": 120,
+			"offY": 30,
+			"skin": "wolf",
+			"width": 275
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 1,
+			"frameCount": 4,
+			"frameRate": 100,
+			"height": 200,
+			"id": 6,
+			"offX": 130,
+			"offY": 150,
+			"skin": "boss",
+			"width": 300
+		},
+		{
+			"actionDirect": 3,
+			"actionType": 11,
+			"frameCount": 7,
+			"frameRate": 100,
+			"height": 300,
+			"id": 7,
+			"offX": 130,
+			"offY": 180,
+			"skin": "boss",
+			"width": 300
+		}
+	]
+}

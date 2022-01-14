@@ -1,0 +1,62 @@
+{
+	"Ver": "20200918181529",
+	"Items": [
+		{
+			"actionType": 0,
+			"atk": 4,
+			"atkCD": 300,
+			"atkDistance": 0,
+			"atkEft": 1,
+			"atkSound": "atk100.mp3",
+			"atkX": 110,
+			"atkY": 42,
+			"atkedEft": 3,
+			"atkedX": 0,
+			"atkedY": 0,
+			"atkingEft": 2,
+			"atkingX": 150,
+			"atkingY": 0,
+			"skillId": 100,
+			"skillName": "子弹1",
+			"skillType": 1
+		},
+		{
+			"actionType": 0,
+			"atk": 15,
+			"atkCD": 100,
+			"atkDistance": 0,
+			"atkEft": 1,
+			"atkSound": "atk101.mp3",
+			"atkX": 110,
+			"atkY": 42,
+			"atkedEft": 3,
+			"atkedX": 0,
+			"atkedY": 0,
+			"atkingEft": 2,
+			"atkingX": 150,
+			"atkingY": 0,
+			"skillId": 101,
+			"skillName": "子弹2",
+			"skillType": 1
+		},
+		{
+			"actionType": 0,
+			"atk": 10000,
+			"atkCD": 100,
+			"atkDistance": 0,
+			"atkEft": 5,
+			"atkSound": "atk200.mp3",
+			"atkX": 0,
+			"atkY": 0,
+			"atkedEft": 0,
+			"atkedX": 0,
+			"atkedY": 0,
+			"atkingEft": 0,
+			"atkingX": 0,
+			"atkingY": 0,
+			"skillId": 200,
+			"skillName": "挥刀",
+			"skillType": 2
+		}
+	]
+}

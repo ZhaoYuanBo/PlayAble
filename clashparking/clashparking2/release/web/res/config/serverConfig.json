@@ -1,0 +1,32 @@
+{
+"gameId" : "1" ,
+"name" : "消灭星星" , 
+"msg"    : "SUCCESS",
+"data"   :{ 
+"serverHttp"    : "http://192.168.2.88/killstar/" ,
+"serverIP"  : "http://192.168.2.88",
+"serverPort":"8000"
+},
+"switchState":"1",
+"share":[{
+"title":"一个好玩的游戏",
+"imageUrl":"res/atlas/not/share1.jpg"
+},{
+"title":"超级好玩的游戏",
+"imageUrl":"res/atlas/not/share2.jpg"
+}
+],
+"ad":{"home":{
+	"adUnitId":"10000",
+	"left":0,"top":0,"width":720,"height":100
+	},"over":{
+	"adUnitId":"10000",
+	"left":0,"top":0,"width":720,"height":100
+	}
+},"adVideo":{"home":{
+	"adUnitId":"10000","maxPlayCount":5
+	},"over":{
+	"adUnitId":"10000","maxPlayCount":5
+	}
+}
+}

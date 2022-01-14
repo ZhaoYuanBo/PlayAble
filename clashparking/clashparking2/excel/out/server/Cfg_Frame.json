@@ -1,0 +1,131 @@
+{
+	"Ver": "20210709095628",
+	"Items": [
+		{
+			"count": 5,
+			"desc": "开火",
+			"height": 75,
+			"id": 1,
+			"rate": 50,
+			"skin": "frame/fire",
+			"width": 100
+		},
+		{
+			"count": 1,
+			"desc": "子弹",
+			"height": 30,
+			"id": 2,
+			"rate": 1000,
+			"skin": "frame/bullet",
+			"width": 65
+		},
+		{
+			"count": 6,
+			"desc": "掉血",
+			"height": 256,
+			"id": 3,
+			"rate": 50,
+			"skin": "frame/blood",
+			"width": 256
+		},
+		{
+			"count": 8,
+			"desc": "死亡",
+			"height": 256,
+			"id": 4,
+			"rate": 50,
+			"skin": "frame/dead",
+			"width": 256
+		},
+		{
+			"count": 3,
+			"desc": "挥刀",
+			"height": 256,
+			"id": 5,
+			"rate": 50,
+			"skin": "frame/huidao",
+			"width": 256
+		},
+		{
+			"count": 5,
+			"desc": "震屏",
+			"height": 300,
+			"id": 6,
+			"rate": 80,
+			"skin": "frame/shake",
+			"width": 300
+		},
+		{
+			"count": 1,
+			"desc": "子弹",
+			"height": 30,
+			"id": 7,
+			"rate": 1000,
+			"skin": "frame/bullet2",
+			"width": 65
+		},
+		{
+			"count": 8,
+			"desc": "升级",
+			"height": 202,
+			"id": 8,
+			"rate": 60,
+			"skin": "frame/up",
+			"width": 245
+		},
+		{
+			"count": 1,
+			"desc": "子弹3",
+			"height": 52,
+			"id": 9,
+			"rate": 1000,
+			"skin": "frame/bullet3",
+			"width": 52
+		},
+		{
+			"count": 4,
+			"desc": "发光",
+			"height": 320,
+			"id": 10,
+			"rate": 60,
+			"skin": "frame/light",
+			"width": 318
+		},
+		{
+			"count": 1,
+			"desc": "帮手子弹",
+			"height": 90,
+			"id": 11,
+			"rate": 1000,
+			"skin": "frame/bullet4",
+			"width": 90
+		},
+		{
+			"count": 13,
+			"desc": "合成特效",
+			"height": 800,
+			"id": 12,
+			"rate": 300,
+			"skin": "frame/hecheng",
+			"width": 800
+		},
+		{
+			"count": 4,
+			"desc": "升级特效",
+			"height": 220,
+			"id": 13,
+			"rate": 100,
+			"skin": "frame/effup",
+			"width": 220
+		},
+		{
+			"count": 19,
+			"desc": "小汽车优化特效",
+			"height": 400,
+			"id": 14,
+			"rate": 100,
+			"skin": "frame/mine",
+			"width": 400
+		}
+	]
+}

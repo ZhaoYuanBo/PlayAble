@@ -1,0 +1,43 @@
+1.App developer name:  machbird studio
+
+2.Vendor: Inhouse
+
+
+3.App Name(Bundle): Android and Ios
+
+4.mail addresses for QA freeback:  wangwenwen@apusapps.com
+
+5.Create Version Description: Android(5.0 and up)  Ios(10.0 and up)
+
+6.Support ad orientations:  Portrait
+
+7.OS/device to exclude: ios
+
+
+8.Commnets for testing:
+1.Playable tag：https://gc-static.machbird.com/machbird/machbird.html
+Store url: 
+Android:
+Ios:https://apps.apple.com/nz/app/idle-gun-tycoon/id1478738631
+
+2.Protocol: DAPI
+
+3.Device type:Android(5.0 and up)
+
+Device: MeiZu Note8   OS Version:Android 8.1
+Device: OPPO R15   OS Version:Android 8.1 
+Device: HUAWEI MATE8   OS Version:Android 8.0 
+
+IOS (10.0 and up)
+Device: Iphone6   OS Version: 12.0
+Device: Iphone7   OS Version: 11.0
+
+======mraid 基本上都用dapi =====
+1.Playable tag：<div id="normal" style="width:0px;height:0px;margin:auto;position:relative;top:0px;left:0px;background-color:#000000;" align="center">
+</div>
+<script src="https://gc-static.machbird.com/machbird/machbird.js"></script>
+
+Store url: Android商店地址 Ios商店地址
+
+2.Protocol: mraid
+

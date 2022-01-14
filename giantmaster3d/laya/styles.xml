@@ -1,0 +1,4 @@
+<res>
+   <item name="game/img_bg_guang.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="loading/loading.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
